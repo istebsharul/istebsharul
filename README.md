@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @istebsharul
 - 👀 I’m interested in Web Development, DSA, CP, Machine Learning
-- 🌱 I’m currently learning DSA and Machine Learning Algorithm
+- 🌱 I’m currently learning DSA and Flutter
 - 💞️ I’m looking to collaborate on Web Development Project
 - 📫 How to reach me istebsharulbari919@gmail.com
 
